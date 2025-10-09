@@ -9,3 +9,9 @@ Projects I worked on while attending the Business Intelligence TripleTen Bootcam
 | 3 |Data Visualization with Tableau|Found out the profit and loss leaders for the superstore and measured the return rate of each product as well as finding out the best times and places for most effective advertising|
 | 4 |Storytelling with Data|Found what is the leading cause of returns based on different categories like region and time|
 | 5 |||
+
+# Other_Data_Projects
+Projects I've worked on outside of the TripleTen Bootcamp.
+| Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | Tata's Data Visualization Project on Forage|Tracked revenue and products ordered by different metrics like month, country, and customer|
